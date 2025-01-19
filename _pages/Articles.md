@@ -1,4 +1,0 @@
----
-title: "Articles"
-permalink: /articles/
----
