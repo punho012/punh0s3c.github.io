@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Balassa Bence"
+  name   : "Punho Security"
   avatar : "/assets/images/hacker.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Cyber security and privacy enthusiast"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
