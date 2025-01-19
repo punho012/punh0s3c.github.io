@@ -5,4 +5,4 @@
 layout: home
 author_profile: true
 ---
-I am a cyber security analyst. I am interested in malaware researching and cyber threat intelligence.
+
