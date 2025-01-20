@@ -1,7 +1,7 @@
 ---
 title: "Post: Notice"
 categories:
-  - Blog
+  - Articles
 tags:
   - Post Formats
   - notice
