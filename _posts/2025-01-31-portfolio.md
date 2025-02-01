@@ -1,7 +1,10 @@
 ---
 title: "my portfolio"
-permalink: /about/
-author_profile: true
+categories:
+  - About
+tags:
+  - Post Formats
+  - quote
 ---
 LKJLKGJFLKJFLGJFLKDGJLKGJFDKLGJFDLKGJLKGJKLDFJGH
 ASDFLKFKDSJKLFJDLKFJSDJLFJKLJ
