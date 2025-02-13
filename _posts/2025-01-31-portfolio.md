@@ -5,7 +5,7 @@ categories:
 tags:
   - Post Formats
   - quote
-permalink: /about/:portfolio
+permalink: /about/portfolio
 ---
 LKJLKGJFLKJFLGJFLKDGJLKGJFDKLGJFDLKGJLKGJKLDFJGH
 ASDFLKFKDSJKLFJDLKFJSDJLFJKLJ
