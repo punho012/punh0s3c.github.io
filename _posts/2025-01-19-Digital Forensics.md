@@ -2,8 +2,8 @@
 title: "Digital Forensics"
 last_modified_at: 2025-01-19T16:20:02-05:00
 categories:
-  - Articles
-permalink: /articles/
+  - articles
+permalink: /articles/Digital Forensics
 ---
 Digital forensics is the process of collecting, analyzing, and preserving digital evidence, sometimes so that it can be submitted as evidence in court during legal proceedings. When digital forensics (DF) and incident response (IR) come together, when investigating and responding to a security incident to gather and preserve evidence, the term ‘DFIR’ is often used.
 
