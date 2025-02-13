@@ -1,11 +1,11 @@
 ---
-title: "my portfolio"
+title: "portfolio"
 categories:
   - About
 tags:
   - Post Formats
   - quote
-permalink: /about/
+permalink: /about/:portfolio
 ---
 LKJLKGJFLKJFLGJFLKDGJLKGJFDKLGJFDLKGJLKGJKLDFJGH
 ASDFLKFKDSJKLFJDLKFJSDJLFJKLJ
